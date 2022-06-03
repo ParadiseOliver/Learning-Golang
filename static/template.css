@@ -1,0 +1,19 @@
+body {
+    min-height: 150%;
+    background-image: url("sale.jpg");
+    background-blend-mode: overlay;
+    background-size: cover;
+}
+
+.Welcome {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+    color: lightgreen;
+}
+
+.Centre {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,4 +1,4 @@
-#Basic Server
+# Basic Server
 
 Basic first server containing 3 routes "/", "/hello" and "/competition".
 "/hello" returns the value "Hello!"
